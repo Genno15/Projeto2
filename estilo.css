@@ -1,0 +1,25 @@
+body {        /**/
+	background: rgb(70, 142, 236);   /*cor de fundo do body*/
+	font: normal 15pt Arial;			/*fonte das letras */
+}
+header {                       
+	color: white;				/*cor do header*/
+	text-align: center;			/*texto do header alinhado no centro*/
+}
+section {					
+	background: white;			/*cor de fundo*/
+	border-radius: 15px;		/*borda redonda*/
+	padding: 15px;				/*distancia entre conteudo e borda*/
+	width: 500px;				/*largura*/
+	margin: auto;				/*margim automatico nos 4 cantos do elementos*/
+	box-shadow: 3px 3px 10px rgba(12, 12, 12, 0.363);  /*nombra na caixa*/
+}
+div {							
+	text-align: center; 		/*texto da div alinhado no centro*/
+	padding: 8px;				/*distancia entre conteudo e borda*/
+}						
+footer {						
+	color: white;				
+	text-align: center;			
+	font-style: italic;			/*estilo da fonte*/
+}
